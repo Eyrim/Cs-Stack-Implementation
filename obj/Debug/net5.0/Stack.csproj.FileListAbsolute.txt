@@ -1,0 +1,16 @@
+C:\Users\gamin\RiderProjects\a2\isps\Stack\Stack\bin\Debug\net5.0\Stack.exe
+C:\Users\gamin\RiderProjects\a2\isps\Stack\Stack\bin\Debug\net5.0\Stack.deps.json
+C:\Users\gamin\RiderProjects\a2\isps\Stack\Stack\bin\Debug\net5.0\Stack.runtimeconfig.json
+C:\Users\gamin\RiderProjects\a2\isps\Stack\Stack\bin\Debug\net5.0\Stack.runtimeconfig.dev.json
+C:\Users\gamin\RiderProjects\a2\isps\Stack\Stack\bin\Debug\net5.0\Stack.dll
+C:\Users\gamin\RiderProjects\a2\isps\Stack\Stack\bin\Debug\net5.0\ref\Stack.dll
+C:\Users\gamin\RiderProjects\a2\isps\Stack\Stack\bin\Debug\net5.0\Stack.pdb
+C:\Users\gamin\RiderProjects\a2\isps\Stack\Stack\obj\Debug\net5.0\Stack.csprojAssemblyReference.cache
+C:\Users\gamin\RiderProjects\a2\isps\Stack\Stack\obj\Debug\net5.0\Stack.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gamin\RiderProjects\a2\isps\Stack\Stack\obj\Debug\net5.0\Stack.AssemblyInfoInputs.cache
+C:\Users\gamin\RiderProjects\a2\isps\Stack\Stack\obj\Debug\net5.0\Stack.AssemblyInfo.cs
+C:\Users\gamin\RiderProjects\a2\isps\Stack\Stack\obj\Debug\net5.0\Stack.csproj.CoreCompileInputs.cache
+C:\Users\gamin\RiderProjects\a2\isps\Stack\Stack\obj\Debug\net5.0\Stack.dll
+C:\Users\gamin\RiderProjects\a2\isps\Stack\Stack\obj\Debug\net5.0\ref\Stack.dll
+C:\Users\gamin\RiderProjects\a2\isps\Stack\Stack\obj\Debug\net5.0\Stack.pdb
+C:\Users\gamin\RiderProjects\a2\isps\Stack\Stack\obj\Debug\net5.0\Stack.genruntimeconfig.cache
